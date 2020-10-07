@@ -11,6 +11,7 @@ class CalcTest {
 	@Test
 	void test() {
 		int n1; int n2; int sum;
+		
 		n1 = 1;
 		n2 = 1;
 		sum = n1 + n2;
